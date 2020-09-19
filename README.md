@@ -1,0 +1,2 @@
+# openapi_redoc_example
+OpenApi dosyalarınızdan belgelendirme için kullanılabilecek redoc kütüphanesinin örneği
